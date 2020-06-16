@@ -26,11 +26,11 @@ str = "{{{-{{{{{{{,{{{{{{{{{-----{{{-{{{,,<<---<<<----<<___>>--->>>>>,,,,,,[[[,,
 ## summary and output
 
 ```
-\# load package
+# load package
 
 library(ttss)
 
-\# smmary str, print paied information into p.txt, print unpaied information into u.txt
+# smmary str, print paied information into p.txt, print unpaied information into u.txt
 
 ttss_summary(str,file_paired = "p.txt", file_unpaired = "u.txt")
 ```
