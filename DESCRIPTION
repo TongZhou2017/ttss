@@ -1,0 +1,15 @@
+Package: ttss
+Title: Tong's tools - second structure summary
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tong",
+           family = "Zhou",
+           role = c("aut", "cre"),
+           email = "tongzhou2017@gmail.com",
+           comment = c(ORCID = "0000-0003-3844-1576"))
+Description: RNA second structure summary tools.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr, stringr, utils
+RoxygenNote: 7.1.0
