@@ -13,7 +13,7 @@ Author: Tong Zhou (tongzhou2017@gmail.com)
 ```
 library(devtools)
 
-install_github()
+install_github(TongZhou2017/ttss)
 ```
 
 
